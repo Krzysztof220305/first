@@ -1,1 +1,1 @@
-Conflict line from branch1
+Resolved conflict manually - keeping both changes.
